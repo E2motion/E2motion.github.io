@@ -1,1 +1,21 @@
-
+h1 {
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 3em;
+    font-style: italic;
+    color:white;
+    }
+    
+    .center {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    h2 {
+        text-align: center;
+        font-family: Tahoma;
+    font-style: italic;
+    color:white;
+    }
+    
+     body {background: #23395d;}
