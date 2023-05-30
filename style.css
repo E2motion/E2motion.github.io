@@ -79,3 +79,70 @@ h1 {
     .Tuff {
         color:White;
           }
+h1 {
+     text-align: center;
+    font-family: Tahoma;
+    font-size: 3em;
+    font-style: italic;
+    color:white;
+    border-style: groove;
+}
+    
+    h2 {
+         text-align: center;
+    font-family: Tahoma;
+    font-size: 25px;
+    font-style: italic;
+    color:white;
+    }
+    
+    h3 {
+        font-family: Tahoma;
+    font-size: 25px;
+    font-style: italic;
+    color:white;
+    }
+    
+    h4 {
+        text-align: center;
+    font-family: Tahoma;
+    font-size: 15px;
+    color:white;
+    }
+    
+    h5{
+        font-family: Tahoma;
+    font-size: 25px;
+    font-style: italic;
+    color:white;
+    }
+    
+    h6{
+         text-align: center;
+    font-family: Tahoma;
+    font-size: 25px;
+    font-style: italic;
+    color:white;
+    }
+    
+    .keane {
+        border-style: groove;
+    }
+    
+    .Roster {
+         color:white;
+    }
+    
+    .Roster2 {
+        color: white;
+        position: relative;
+        left: 750px;
+        top: -260px;
+    }
+    
+.Roster3{
+     color: white;
+        position: relative;
+        top:-250px;
+        
+}
