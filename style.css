@@ -96,15 +96,7 @@ h1 {
     color:white;
     }
     
-    h3 {
-        font-family: Tahoma;
-    font-size: 25px;
-    font-style: italic;
-    color:white;
-        position:relative;
-    left:8px;
-    }
-    
+
     h4 {
         text-align: center;
     font-family: Tahoma;
@@ -148,3 +140,13 @@ h1 {
         top:-250px;
         
 }
+
+ .Dubem{
+         font-family: Tahoma;
+    font-size: 25px;
+    font-style: italic;
+    Color:white;
+position:relative;
+    left:7px;
+    }
+    
