@@ -101,6 +101,8 @@ h1 {
     font-size: 25px;
     font-style: italic;
     color:white;
+        position:relative;
+    left:10px;
     }
     
     h4 {
