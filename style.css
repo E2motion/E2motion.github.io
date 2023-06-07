@@ -1,4 +1,4 @@
-h1 {
+  h1 {
     text-align: center;
     font-family: Tahoma;
     font-size: 3em;
@@ -21,7 +21,7 @@ h1 {
     }
     
     h3 {
-        text-align: center;
+     
     font-family: Tahoma;
     font-size: 1.2em;
     font-style: italic;
@@ -45,7 +45,7 @@ h1 {
     }
     
     h6 {
-          text-align: left;
+          
     font-family: Tahoma;
     font-style: italic;
     color:white;
@@ -79,6 +79,12 @@ h1 {
     .Tuff {
         color:White;
           }
+          
+    .Chart {
+        color:white;
+        border: white dotted;
+    }      
+
 h1 {
      text-align: center;
     font-family: Tahoma;
